@@ -1,0 +1,6 @@
+google.com , 443 ,Success
+google.com , 80 ,Success
+google.com , 445 ,Fail
+facebook.com , 443 ,Success
+facebook.com , 80 ,Success
+facebook.com , 445 ,Fail
